@@ -1,0 +1,68 @@
+_repo: International-Language-and-Science-Considerations-on-the-Introduction-of-an-International-Lan__54694
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Donnan, F. G. (Frederick George)
+    alias: Donnan, Frederick George
+    birthdate: 1870
+    deathdate: 1956
+    gutenberg_agent_id: '48000'
+    url: http://www.gutenberg.org/2009/agents/48000
+creator:
+  authors:
+  - agent_name: Couturat, Louis
+    birthdate: 1868
+    deathdate: 1914
+    gutenberg_agent_id: '3709'
+    url: http://www.gutenberg.org/2009/agents/3709
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Couturat
+  - agent_name: Lorenz, Richard
+    birthdate: 1863
+    deathdate: 1929
+    gutenberg_agent_id: '47999'
+    url: http://www.gutenberg.org/2009/agents/47999
+  - agent_name: Jespersen, Otto
+    alias: Espersen, Otto
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '47187'
+    url: http://www.gutenberg.org/2009/agents/47187
+    wikipedia: https://en.wikipedia.org/wiki/Otto_Jespersen
+  - agent_name: Ostwald, Wilhelm
+    alias: Ostwald, Friedrich Wilhelm
+    birthdate: 1853
+    deathdate: 1932
+    gutenberg_agent_id: '42408'
+    url: http://www.gutenberg.org/2009/agents/42408
+  - agent_name: Pfaundler von Hadermur, Leopold
+    alias: Pfaundler, Leopold
+    birthdate: 1839
+    deathdate: 1920
+    gutenberg_agent_id: '47998'
+    url: http://www.gutenberg.org/2009/agents/47998
+description: ''
+gutenberg_issued: '2017-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54694'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcc 'PM'
+- !lcsh 'Language, Universal'
+- !lcsh 'Communication in science'
+- GITenberg
+tableOfContents: 'The need for a common scientific language, by L. Pfaundler -- The
+  Délégation pour l''adoption d''une langue auxillaire internationale, by R. Lorenz
+  -- Linguistic principles necessary for the construction of an international auxiliary
+  language, with an Appendix on the criticism of Esperanto, by O.Jespersen -- On the
+  application of logic to the problem of an international language, by L. Couturat
+  -- The relationship of the international language to science, by R. Lorenz -- The
+  question of nomenclature, by W. Ostwald -- Conclusion: Reading, writing and speaking
+  by L. Pfaundler -- Appendices.'
+title: "International Language and Science\r\nConsiderations on the Introduction of\
+  \ an International Language into Science"
+url: http://www.gutenberg.org/ebooks/54694
