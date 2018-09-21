@@ -8,6 +8,9 @@ contributor:
     deathdate: 1956
     gutenberg_agent_id: '48000'
     url: http://www.gutenberg.org/2009/agents/48000
+covers:
+- cover_type: archival
+  image_path: 54694-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Couturat, Louis
@@ -41,6 +44,8 @@ creator:
     gutenberg_agent_id: '47998'
     url: http://www.gutenberg.org/2009/agents/47998
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54694#International-Language-and-Science-Considerations-on-the-Introduction-of-an-International-Lan_
 gutenberg_issued: '2017-05-09'
 gutenberg_type: Text
 identifiers:
